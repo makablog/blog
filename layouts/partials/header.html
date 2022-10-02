@@ -151,6 +151,7 @@
   <div class="header-container">
     <div class="header-wrapper">
       <div class="header-title">
+        {{ partial "google/adsense" . }}
         <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
           {{- with .Site.Params.header.title -}}
             {{- with .logo -}}
