@@ -209,9 +209,9 @@ title = "Blog do Maka"
 
   # FixIt 0.2.16 | CHANGED Social config about the author
   [params.social]
-    GitHub = "https://github.com/MakalisterAndrade"
-    Linkedin = "https://www.linkedin.com/in/makalisterandrade/"
-    Twitter = "https://twitter.com/akar_and"
+    GitHub = "MakalisterAndrade"
+    Linkedin = "makalisterandrade"
+    Twitter = "akar_and"
     Instagram = ""
     Facebook = ""
     Telegram = ""
